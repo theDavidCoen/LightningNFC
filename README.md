@@ -31,5 +31,5 @@ I decided to make Breez my default Lightning app for this test, so when I tap wi
 I just need to enter the amount and send.
 
 The result is this (click the image to see the video): 
-[![Watch the video](https://img.youtube.com/vi/I_NfYfOKgEY/sddefault.jpg)](https://youtu.be/I_NfYfOKgEY)
+<br>[![Watch the video](https://img.youtube.com/vi/I_NfYfOKgEY/sddefault.jpg)](https://youtu.be/I_NfYfOKgEY)
 
