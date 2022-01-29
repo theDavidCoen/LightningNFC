@@ -1,5 +1,5 @@
 # LightningNFCRing
-## Lightning related projects with a NFC ring ##
+## Lightning Network related projects with a NFC ring ##
 A list of projects. Some of them are really basic and easy to reproduce.
 
 ### Receive payments with a NFC ring and a Lightning Wallet ###
