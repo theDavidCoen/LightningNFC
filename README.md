@@ -21,7 +21,7 @@ In this project we will basically add 'lightning:LNADDRESS' into the NFC tag of 
 I created my Lightning Address using my [BTCpay Server](https://btcpay.davidcoen.it/) instance. The LN address I will use is ['donate@btcpay.davidcoen.it'](lightning:donate@btcpay.davidcoen.it).
 
 Open NFC Tools app and go to Add a record.
-You will need to ad a custom URL / URI: enter your lightning URI and tap OK.
+You will need to add a custom URL / URI: enter your lightning URI and tap OK.
 In my case I will add ['lightning:donate@btcpay.davidcoen.it'](lightning:donate@btcpay.davidcoen.it), without the quotation marks.
 
 Then you just need to approach the NFC ring and the app will save the data into the NFC tag memory.
