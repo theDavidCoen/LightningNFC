@@ -3,7 +3,7 @@
 A list of projects. Some of them are really basic and easy to reproduce.
 
 ### Receive payments with a NFC ring and a Lightning Wallet ###
-A very simple project. you will be able to receive payments via Lightning Network using your NFC ring.
+A very simple project. You will be able to receive payments via Lightning Network using your NFC ring.
 You will not need to open your app to receive the payments.
 
 You need:
