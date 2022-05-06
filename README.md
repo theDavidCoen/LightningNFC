@@ -2,8 +2,10 @@
 ## Lightning Network related projects with a NFC tag (ring, card...) ##
 A list of projects. Some of them are really basic and easy to reproduce.
 
-### Receive payments with a NFC tag and a Lightning Wallet ###
-A very simple project. You will be able to receive payments via Lightning Network using your NFC tag.
+
+## Receive payments with a NFC tag and a Lightning Wallet ###
+A very simple project. 
+<br>**You will be able to receive payments via Lightning Network using your NFC tag.**<br>
 You will not need to open your app to receive the payments.
 
 You need:
