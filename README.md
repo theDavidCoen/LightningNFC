@@ -1,13 +1,13 @@
-# LightningNFCRing
-## Lightning Network related projects with a NFC ring ##
+# LightningNFC
+## Lightning Network related projects with a NFC tag (ring, card...) ##
 A list of projects. Some of them are really basic and easy to reproduce.
 
-### Receive payments with a NFC ring and a Lightning Wallet ###
-A very simple project. You will be able to receive payments via Lightning Network using your NFC ring.
+### Receive payments with a NFC tag and a Lightning Wallet ###
+A very simple project. You will be able to receive payments via Lightning Network using your NFC tag.
 You will not need to open your app to receive the payments.
 
 You need:
-1. A low cost NFC ring (search on Amazon or Aliexpress)
+1. A low cost NFC tag, such as a ring or a card (search on Amazon or Aliexpress)
 2. An Android device 
 3. NFC Tools app (https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&hl=it&gl=US)
 4. A Lightning Wallet able to handle LNURL-pay and [Lightning Address](https://lightningaddress.com/), such as [Breez Wallet](https://breez.technology/) or [Zeus](https://zeusln.app/). You can also try with other wallets, I haven't yet.
