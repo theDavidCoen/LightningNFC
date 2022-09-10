@@ -61,5 +61,28 @@ Once you tap on your device using your NFC tag, BTCpay will contact the server a
 The result is this (click the image to see the video): 
 <br>[![Watch the video](https://img.youtube.com/vi/4m-FQoUAs50/sddefault.jpg)](https://youtu.be/4m-FQoUAs50)
 
+## Receive payments to your LN-shirt ###
+How to set up the LN-shirt tag, protect it with password and receive payments (LN-shirt is coming soon). 
+<br>**You will be able to receive payments via Lightning Network using your LN-shirt.**<br>
+You will not need to open your app to receive the payments.
 
+You need:
+1. LN-shirt (coming soon!)
+2. An Android device 
+3. NFC Tools app (https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&hl=it&gl=US)
+4. A Lightning Wallet able to handle LNURL-pay and [Lightning Address](https://lightningaddress.com/), such as [Breez Wallet](https://breez.technology/) or [Zeus](https://zeusln.app/). You can also try with other wallets.
+5. A Lightning Address (you can have your LN address linked to your own node or use an hosted one, such as one from Wallet of Satoshi).
+
+In this project we will basically add 'lightning:LNADDRESS' into the NFC tag and protect it with a password, so we can receive payment by simply making the senders tap our LN-shirt with their devices.
+
+Open NFC Tools app and go to Add a record.
+You will need to add a custom URL / URI: enter your lightning URI and tap OK.
+In my case I will add ['lightning:donate@btcpay.davidcoen.it'](lightning:donate@btcpay.davidcoen.it), without the quotation marks.
+
+Tap on the NFC symbol on your LN-shirt with your device and the app will save the data into the NFC tag memory.
+Now go to NFC Tools, Other, Set a Password. 
+Enter your password and tap again on the NFC symbol on your LN-shirt with your device.
+
+Once the senders tap on the NFC symbol on your LN-shirt, their default wallet will open and they will be able to send funds. 
+They will NOT be able to format the NFC tag.
 
